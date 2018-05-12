@@ -1,10 +1,16 @@
 _repo: A-treatise-on-the-culture-of-the-tobacco-plant-with-the-manner-in-which-it-is-usually-cured-A__47638
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47638-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Carver, Jonathan
     gutenberg_agent_id: '44406'
     url: http://www.gutenberg.org/2009/agents/44406
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47638#A-treatise-on-the-culture-of-the-tobacco-plant-with-the-manner-in-which-it-is-usually-cured-A_
 gutenberg_issued: '2014-12-12'
 gutenberg_type: Text
 identifiers:
